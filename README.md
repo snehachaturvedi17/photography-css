@@ -1,6 +1,6 @@
 # photography
 
-**Copyright © Prathamesh More**
+**Copyright © sneha chaturvedi
 
 ## Folder Structure
 
